@@ -1,6 +1,6 @@
 # Workforce Planning & Rotation Automation System
 
-![Workforce Planning & Rotation Automation System](assets/Workforce-Planning-Rotation-GitHub-Hero.png)
+![Workforce Planning & Rotation Automation System](assets/Workforce-Planning-Rotation-Premium-GitHub-Hero-v2.png)
 
 > **Portfolio Disclaimer:** This project is a sanitized portfolio case study based on an Excel VBA labor planning automation I designed for operations planning. All internal system names, data sources, personnel references, and workflow specifics have been replaced with generalized equivalents. No proprietary company data, internal systems, or confidential process details are included.
 
