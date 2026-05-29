@@ -1,4 +1,4 @@
-# AI Excel Labor Planning & Job Rotation Macro — DLV4
+# Workforce Planning & Rotation Automation System
 
 ## Project Overview
 
